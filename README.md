@@ -1,4 +1,4 @@
-Proof of Concept, XOOPS Mobile App
+# Proof of Concept, XOOPS Mobile App
 
 Instructions
 1. Download and extract 
